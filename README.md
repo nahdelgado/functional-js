@@ -1,4 +1,4 @@
 # Functional programming features in JavaScript
 
-TODO: Fill
+TODO: Fill with appropriate content
 
